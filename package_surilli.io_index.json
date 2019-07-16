@@ -111,7 +111,7 @@
           "category": "Contributed",
           "name": "Surilli Wifi Boards",
           "url": "https://surilli-io.github.io/arduino-board-index/boards/surilli-wifi.2.1.0.tar.bz2",
-          "checksum": "SHA-256:000818d500ea90bcb516d667c688387f34003247bb5592e795bc549e91f9ace0",
+          "checksum": "SHA-256:5F0D8102653F75F80A3847D532FE172A863A0F8B2162D041C911C8631D463E4F",
           "help": {
             "online": "https://www.hackster.io/surilli"
           },
