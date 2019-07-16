@@ -94,15 +94,12 @@
               "packager": "arduino",
               "name": "arduinoOTA",
               "version": "1.2.0"
-            }
-          ]
         }
-      ],
-      "tools": [
       ]
-    }
-  ]
+}
+]
 },
+      
     {
       "maintainer": "Silverback",
       "help": {
